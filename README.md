@@ -36,7 +36,7 @@
 ## ⬇️Download:
 
 
-Caso queira baixar o app no seu celular, bastar executar o [arquivo]() no seu celular.
+Caso queira baixar o app no seu celular, bastar executar o [arquivo](https://github.com/CaduConrado/Controle-de-Visitantes/tree/main/download/app-release.apk) no seu celular.
 
 ## 😊Obrigado!
 
