@@ -1,16 +1,42 @@
-# app_contador
+<div style="text-align: center;">
+  <img src="./assets/icons/museum_icon.jpg" alt="ícone do app" width="72" height="72"/>
+</div>
 
-A new Flutter project.
+<h3 align="center">Controle de Pessoas</h3>
 
-## Getting Started
+ <p align="center">
+    App criado para praticar os primeiros conceitos sobre Flutter.
+    <br>
+    Nesse projeto foi trabalhado os conceitos iniciais do Flutter como os widgets Columns, Rows, Text e TextButtom, além dos conceitos de <strong>Statefull widgets</strong> e <strong>Stateless widgets</strong>.
+    <br>
+    <br>
+  </p>
 
-This project is a starting point for a Flutter application.
+  ## 📝 Descrição do App:
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+    Este app foi desenvolvido visando o controle do fluxo de pessoas em uma exposição de artes em um determinado museu. Tendo em vista que a quantidade máxima permitida na sala de visitação é 20 pessoas o app apresenta um contador que vai de 0 (zero) à 20 (vinte), informando quando é permitido a entrada de mais visitantes e quando está lotado.
+<br>
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱Demonstração: 
+<div style="text-align: center;">
+  <img src="./assets/images/print_example1.jpeg" alt="Captura do app 1", style="width: 300px"/>
+</div>
+<br>
+<br>
+<div style="text-align: center;">
+  <img src="./assets/images/print_example2.jpeg" alt="Captura do app 2", style="width: 300px"/>
+</div>
+<br>
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⬇️Download:
+
+
+Caso queira baixar o app no seu celular, bastar executar o [arquivo]() no seu celular.
+
+## 😊Obrigado!
+
+Obrigado pelo interesse em conhecer esse meu projeto, se você gostou fique a vontade para lhe dar uma estrela! ⭐🤗
+
