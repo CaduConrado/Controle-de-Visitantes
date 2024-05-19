@@ -20,14 +20,14 @@
 <br>
 
 ## 📱Demonstração: 
-<div style="text-align: center;">
+<p align="center">
   <img src="./assets/images/print_example1.jpeg" alt="Captura do app 1", style="width: 300px">
-</div>
+</p>
 <br>
 <br>
-<div style="text-align: center;">
+<p align="center">
   <img src="./assets/images/print_example2.jpeg" alt="Captura do app 2", style="width: 300px">
-</div>
+</p>
 <br>
 <br>
 
