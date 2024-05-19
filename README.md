@@ -20,12 +20,8 @@
 <br>
 
 ## 📱Demonstração: 
-<p align="center">
+<p float="left">
   <img src="./assets/images/print_example1.jpeg" alt="Captura do app 1", style="width: 300px">
-</p>
-<br>
-<br>
-<p align="center">
   <img src="./assets/images/print_example2.jpeg" alt="Captura do app 2", style="width: 300px">
 </p>
 <br>
