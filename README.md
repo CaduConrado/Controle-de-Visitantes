@@ -1,9 +1,14 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CaduConrado/Weather-App/blob/master/LICENSE) 
+
 <p align="center">
   <img src="./assets/icons/museum_icon.jpg" alt="ícone do app" width="72" height="72" />
 </p>
 
+
 <h3 align="center">Controle de Pessoas</h3>
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CaduConrado/Controle-de-Visitantes/blob/main/LICENSE) 
+
+
+
 
  <p align="center">
     App criado para praticar os primeiros conceitos sobre Flutter.
