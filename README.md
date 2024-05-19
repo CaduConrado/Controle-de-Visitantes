@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="./assets/icons/museum_icon.jpg" alt="ícone do app" width="72" height="72"/>
+  <img src="./assets/icons/museum_icon.jpg" alt="ícone do app" width="72" height="72">
 </div>
 
 <h3 align="center">Controle de Pessoas</h3>
@@ -21,12 +21,12 @@
 
 ## 📱Demonstração: 
 <div style="text-align: center;">
-  <img src="./assets/images/print_example1.jpeg" alt="Captura do app 1", style="width: 300px"/>
+  <img src="./assets/images/print_example1.jpeg" alt="Captura do app 1", style="width: 300px">
 </div>
 <br>
 <br>
 <div style="text-align: center;">
-  <img src="./assets/images/print_example2.jpeg" alt="Captura do app 2", style="width: 300px"/>
+  <img src="./assets/images/print_example2.jpeg" alt="Captura do app 2", style="width: 300px">
 </div>
 <br>
 <br>
@@ -39,4 +39,3 @@ Caso queira baixar o app no seu celular, bastar executar o [arquivo]() no seu ce
 ## 😊Obrigado!
 
 Obrigado pelo interesse em conhecer esse meu projeto, se você gostou fique a vontade para lhe dar uma estrela! ⭐🤗
-
