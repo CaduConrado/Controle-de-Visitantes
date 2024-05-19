@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">Controle de Pessoas</h3>
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CaduConrado/Controle-de-Visitantes/blob/main/LICENSE) 
 
  <p align="center">
     App criado para praticar os primeiros conceitos sobre Flutter.
