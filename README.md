@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="./assets/icons/museum_icon.jpg" alt="ícone do app" width="72" height="72">
-</div>
+<p align="center">
+  <img src="./assets/icons/museum_icon.jpg" alt="ícone do app" width="72" height="72" />
+</p>
 
 <h3 align="center">Controle de Pessoas</h3>
 
